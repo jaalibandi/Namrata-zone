@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Namrata Zone</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Montserrat:wght@300;500&display=swap');
+ 
+        body {
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f7f7;
+            color: #333;
+        }
+ 
+        /* Header Styling */
+        .header {
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-family: 'Playfair Display', serif;
+            font-size: 40px;
+            letter-spacing: 2px;
+        }
+ 
+        /* Subheading */
+        .subheading {
+            text-align: center;
+            font-size: 22px;
+            color: #d63384;
+            font-weight: 500;
+            margin: 20px 0;
+            font-style: italic;
+        }
+ 
+        /* Layout */
+        .container {
+            display: flex;
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+ 
+        /* Sidebar */
+        .sidebar {
+            width: 25%;
+            padding-right: 30px;
+        }
+ 
+        .sidebar a {
+            display: block;
+            text-decoration: none;
+            color: #d63384;
+            font-size: 16px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+ 
+        .sidebar a:hover {
+            text-decoration: underline;
+        }
+ 
+        /* Main Content */
+        .content {
+            width: 75%;
+            background: white;
+            padding: 30px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+ 
+        .content p {
+            line-height: 1.8;
+            font-size: 18px;
+        }
+ 
+        /* Editor's Note */
+        .editor-note {
+            margin-top: 40px;
+            padding: 15px;
+            border-left: 4px solid #d63384;
+            background: #fff0f6;
+            font-style: italic;
+        }
+ 
+        .editor-note strong {
+            color: #d63384;
+        }
+    </style>
+</head>
+<body>
+ 
+    <div class="header">The Namrata Zone</div>
+    
+    <div class="subheading">All things Namrata: The hottest thing in town</div>
+ 
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <a href="#">Channelling Namrata Energy: 10 step guide</a>
+            <a href="#">What would Namrata do? A guide for difficult decisions</a>
+            <a href="#">How to be ultra rich.</a>
+        </div>
+ 
+        <!-- Main Content -->
+        <div class="content">
+            <p><strong>Well well,</strong> if you’re wondering who this article is about, you must be living under a rock. Because hello? Have you never heard of <strong>Namrata?!</strong> She’s the newest sensation in town, winning over the hearts and souls of all women alike.</p>
+ 
+            <p>Whether you’re here because you’re absolutely smitten with her, or need the inside scoop on how she does it, we’ve got your back.</p>
+ 
+            <p>In an all-new exclusive interview, Namrata talks about everything her: how she does what she does.</p>
+ 
+            <p>But before we let you in on this secret, here’s an educational lesson for all dimwits who don’t know her.</p>
+ 
+           <p>There are people who light up a room, and then there’s Namrata—who walks in and sets it on fire. Effortlessly hot, undeniably charming, and so confident it makes you want to stand a little taller, she’s the kind of person you meet once and never forget.</p>
+ 
+        <p>Her voice? So seductive and powerful, it could make even a grocery list sound like poetry.</p>
+ 
+<p>But Namrata is so much more than just a gorgeous face with the kind of energy that makes heads turn. She’s hilarious, with a razor-sharp, dark sense of humor that keeps everyone on their toes. She’s got this magnetic presence that makes people feel like they can be anything—because around her, they actually believe it. A true dog mom, she shares her life with four lucky pups and is already the coolest aunt to her month-old niece, Svaha. And just when you think she couldn’t be more perfect, she proves that she’s also a beautiful soul, spreading positivity, warmth, and fearless ambition everywhere she goes.</p>
+ 
+            <!-- Editor's Note -->
+            <div class="editor-note">
+                <strong>Editor's Note (by Anjali):</strong> The author wants to apologise for being busy all the time. This is just a little reminder that I do really like you. Okay, I hope you like this. Bye bye!
+            </div>
+        </div>
+    </div>
+ 
+</body>
+</html>
